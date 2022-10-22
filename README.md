@@ -8,9 +8,9 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-##how create project
+##how contributed
 
-this reposritory here here
+how fork this reposritory
 
 ###CopyRight
 this copyright description new
